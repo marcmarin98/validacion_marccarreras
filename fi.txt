@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modificación desde local
+=======
+EdiciÃ³n desde GitHub
+>>>>>>> b071cbc29d413b6190587ad208c6ad02e791adde
